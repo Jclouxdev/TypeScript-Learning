@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "With the following **[vidéo](https://www.youtube.com/watch?v=BwuLxPH8IDs&ab_channel=Academind)**.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jclouxdev/TypeScript-Learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jclouxdev/TypeScript-Learning/issues"
+  },
+  "homepage": "https://github.com/Jclouxdev/TypeScript-Learning#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
